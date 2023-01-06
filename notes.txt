@@ -1,0 +1,47 @@
+server:computer which has our website stored :sends html,css,js and ....
+Database:Data storage like images,friends...
+ip address: Every domain has a ip address
+ipv4: 192.0.2.146 :broadband
+ipv6: 2001:0b8.............
+DNS: resolves the domain name and directs to the ip address,
+
+www.google.com to dns :translate Domain to an ip address
+We can remeber
+
+html:
+car
+css:
+styling
+jss:
+
+
+http: hypertext transfer protocol
+https: hypertext transfer protocol secure
+
+browser to sender
+sender to browser
+
+hackers can 
+
+encryption will happen with https
+
+browser and server knowns the decryption method
+
+html vs css vs js
+
+html: just for the contents :markup language
+css: used for styling and design :
+js: dynamic effects,and more interactive
+
+www w3.org
+
+Element: Data
+tag: tag
+attributes on tag
+
+
+Comments
+<!--Comments -->
+
+
+
